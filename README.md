@@ -1,6 +1,6 @@
 # WikipediaScraper
 
-A Python-based GUI application that allows users to search Wikipedia articles for any person’s name, fetch full content or a summary, and save it as `.txt` files.
+A Python-based GUI application that allows users to search Wikipedia articles for any Historical name, fetch full content or a summary, and save it as `.txt` files.
 
 Built using **Tkinter**, **wikipedia API**, and **BeautifulSoup (optional fallback)**, this tool helps you scrape and store Wikipedia content efficiently with different scraping levels.
 
