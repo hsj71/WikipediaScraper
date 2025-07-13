@@ -31,7 +31,7 @@ pip install beautifulsoup4 requests
 ---
 
 ## 🚀 How to Run
-Run it with: wikipedia_scraper.exe
+Run it with: wikipedia_scraper.exe(https://github.com/hsj71/WikipediaScraper/raw/refs/heads/main/wikipedia_scraper.exe)
 
 ---
 
