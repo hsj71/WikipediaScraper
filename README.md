@@ -36,33 +36,33 @@ Run it with: wikipedia_scraper.exe
 ---
 
 ## 🧼 Interface 
+<h6>exe File</h6>
 <p align="center">
-  <h6>exe File</h6>
-  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(779).png" alt="View" width="100" align="center"/>
+  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(779).png" alt="View" width="100"/>
 </p>
 
+<h6>User Interface</h6>
 <p align="center">
-    <h6>User Interface</h6>
   <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(780).png" alt="View" width="700"/>
 </p>
 
-<p align="center">
-    <h6>Working with exe</h6>
+<h6>Working with exe</h6>
+  <p align="center">
   <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(781).png" alt="View" width="700" />
 </p>
 
-<p align="center">
-    <h6>Created File</h6>
-  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(782).png" alt="View" width="100"align="center"/>
+ <h6>Created File</h6>
+ <p align="center">
+  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(782).png" alt="View" width="100"/>
 </p>
 
+<h6>View File</h6>
 <p align="center">
-    <h6>View File</h6>
   <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(777).png" alt="View" width="700"/>
 </p>
 
+<h6>All Files</h6>
 <p align="center">
-    <h6>All Files</h6>
   <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(778).png" alt="View" width="700"/>
 </p>
 ---
