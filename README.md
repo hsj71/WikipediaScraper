@@ -38,7 +38,7 @@ Run it with: wikipedia_scraper.exe
 ## 🧼 Interface 
 <p align="center">
   <h6>exe File</h6>
-  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(779).png" alt="View" width="300"/>
+  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(779).png" alt="View" width="100" align="center"/>
 </p>
 
 <p align="center">
@@ -48,12 +48,12 @@ Run it with: wikipedia_scraper.exe
 
 <p align="center">
     <h6>Working with exe</h6>
-  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(781).png" alt="View" width="700"/>
+  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(781).png" alt="View" width="700" />
 </p>
 
 <p align="center">
     <h6>Created File</h6>
-  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(782).png" alt="View" width="300"/>
+  <img src="https://github.com/hsj71/WikipediaScraper/blob/main/Screenshot%20(782).png" alt="View" width="100"align="center"/>
 </p>
 
 <p align="center">
